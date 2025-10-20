@@ -40,15 +40,15 @@ Developed by:Girishva.K RegisterNumber:25009292
 
 
 **RTL realization**
+1
 <img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/6b0ab2c5-4de4-4245-8bf3-6c94a88f7ef9" />
-
-**Output:**
-<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/1b78b556-edfd-44d3-97ad-3dd2b0d71259" />
-
-**RTL**
+2
 <img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/32dbfe00-56d7-4f8d-8e82-549a1320a2c4" />
 
 **Timing Diagram**
+1
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/1b78b556-edfd-44d3-97ad-3dd2b0d71259" />
+2
 <img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/3d196609-d456-4b59-8550-27accdeec123" />
 
 **Result:**
